@@ -1,0 +1,5 @@
+## Linpack Benchmark
+
+Для сборки запускаем скрипт 'linpack_bench.sh'
+
+Далее, запускаем файл a.out
